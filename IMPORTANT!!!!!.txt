@@ -1,0 +1,5 @@
+As the application is not digitally signed, some antivirus
+programs may prevent the executable from running.
+Should this happen, you can try to add the ".exe"
+to the exception list of the AV program or
+disable it momentarily BEFORE executing the application.
