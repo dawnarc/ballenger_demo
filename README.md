@@ -1,5 +1,5 @@
 # ballenger_demo
-3D game demo using OpenGL on Youtube
+Reproduced source on Youtube : My first 2D game using OpenGL + Glut
 
 ### Introduction
 
